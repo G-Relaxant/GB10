@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\72.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\72.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\72.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\72.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\bin\Debug\net6.0\72.exe
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\bin\Debug\net6.0\72.deps.json
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\bin\Debug\net6.0\72.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\bin\Debug\net6.0\72.dll
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\bin\Debug\net6.0\72.pdb
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\72.dll
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\refint\72.dll
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\72.pdb
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\72.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Семинары\GB10\72\obj\Debug\net6.0\ref\72.dll
